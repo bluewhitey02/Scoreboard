@@ -1,0 +1,4 @@
+name: ScoreBoard
+version: '1.0-SNAPSHOT'
+main: com.warple.myplugin.scoreBoard.Main
+api-version: '1.21'

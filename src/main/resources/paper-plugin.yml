@@ -1,0 +1,4 @@
+name: ZeroScoreboard
+version: '1.0-SNAPSHOT'
+main: kr.hyfata.zero.ZeroScoreboard
+api-version: '1.21'

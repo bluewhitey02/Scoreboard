@@ -1,4 +1,4 @@
-package kr.hyfata.zero;
+package kr.hyfata.zero.vault;
 
 import net.milkbowl.vault.economy.Economy;
 import org.bukkit.Bukkit;

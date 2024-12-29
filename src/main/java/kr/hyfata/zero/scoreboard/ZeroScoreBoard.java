@@ -1,7 +1,7 @@
 package kr.hyfata.zero.scoreboard;
 
 import fr.mrmicky.fastboard.FastBoard;
-import org.bukkit.Statistic;
+import kr.hyfata.zero.vault.VaultUtil;
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.java.JavaPlugin;
 
@@ -42,9 +42,9 @@ public class ZeroScoreBoard {
     private void updateBoard(FastBoard board) {
         board.updateLines(
                 "",
-                "§7온라인 플레이어: " + getServer().getOnlinePlayers().size(),
+                "\uE023 §6" + VaultUtil.getBalance(board.getPlayer()),
                 "",
-                "Kills: " + board.getPlayer().getStatistic(Statistic.PLAYER_KILLS),
+                "§b* §7현재 지역: §ftest",
                 ""
         );
     }

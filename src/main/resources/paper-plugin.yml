@@ -1,4 +1,4 @@
-name: ZeroScoreboard
+name: ZeroCore
 version: '1.0-SNAPSHOT'
-main: kr.hyfata.zero.ZeroScoreboard
+main: kr.hyfata.zero.ZeroCore
 api-version: '1.21'

@@ -2,7 +2,7 @@ package kr.hyfata.zero;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
-public final class ZeroScoreboard extends JavaPlugin {
+public final class ZeroCore extends JavaPlugin {
 
     @Override
     public void onEnable() {

@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ScoreBoard.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ScoreBoard.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.warple.myplugin.ScoreBoard.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.warple.myplugin.ScoreBoard.main.iml" />
     </modules>
   </component>
 </project>
